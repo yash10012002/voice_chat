@@ -142,6 +142,7 @@ class _RecordButtonState extends State<RecordButton> {
           color: Colors.black,
         ),
         child: Padding(
+          
           padding: const EdgeInsets.symmetric(horizontal: 15),
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
